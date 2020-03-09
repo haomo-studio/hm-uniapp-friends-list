@@ -16,11 +16,11 @@
 
 * [uni-app插件市场](https://ext.dcloud.net.cn/plugin?id=1390)
 
-* [npm包](https://www.npmjs.com/package/hm-friends-list)
+* [npm包](https://www.npmjs.com/package/hm-uniapp-friends-list)
 
-* [github地址](https://github.com/haomo-studio/hm-friends-list)
+* [github地址](https://github.com/haomo-studio/hm-uniapp-row-video-card)
 
-* [gitee地址](https://gitee.com/haomo/hm-friends-list)
+* [gitee地址](https://gitee.com/haomo/hm-uniapp-friends-list)
 
 毫末科技将长期迭代本组件。需要技术支持，请进钉钉群：
 
