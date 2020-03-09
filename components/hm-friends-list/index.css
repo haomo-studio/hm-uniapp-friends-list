@@ -1,0 +1,276 @@
+.hm-friends-list {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+  width: 385px;
+  height: 382px;
+}
+
+.firendClass {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+  border-radius: 20px;
+  box-shadow: 0px 10px 30px rgba(209, 213, 223, 0.5);
+  background-color: #ffffff;
+  width: 370px;
+  height: 342px;
+}
+
+.hd {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-right: 32px;
+  padding-left: 30px;
+  width: 370px;
+}
+
+.friendsList {
+  opacity: 1;
+  width: 78px;
+  height: 24px;
+  line-height: 24px;
+  white-space: pre;
+  color: #858997;
+  font-family: Helvetica;
+  font-size: 16px;
+  font-weight: normal;
+}
+
+.img {
+  margin-top: 10px;
+  width: 18px;
+  height: 4px;
+}
+
+.bd {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  margin-top: 30px;
+  padding-right: 14px;
+  padding-left: 15px;
+}
+
+.col1 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 113px;
+  height: 99px;
+}
+
+.avator {
+  border-radius: 30px;
+  width: 60px;
+  height: 60px;
+  overflow: hidden;
+}
+
+.miller {
+  opacity: 1;
+  margin-top: 15px;
+  max-width: 60px;
+  overflow: hidden;
+  text-align: center;
+  text-overflow: ellipsis;
+  line-height: 24px;
+  white-space: nowrap;
+  color: #141821;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.col2 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 113px;
+  height: 99px;
+}
+
+.user {
+  border-radius: 30px;
+  width: 60px;
+  height: 60px;
+  overflow: hidden;
+}
+
+.lingna {
+  opacity: 1;
+  margin-top: 15px;
+  max-width: 59px;
+  overflow: hidden;
+  text-align: center;
+  text-overflow: ellipsis;
+  line-height: 24px;
+  white-space: nowrap;
+  color: #141821;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.col3 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin-left: 1px;
+  width: 113px;
+  height: 99px;
+}
+
+.wrap {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+  border-radius: 30px;
+  background-color: #eeeeff;
+  width: 60px;
+  height: 60px;
+}
+
+.word {
+  opacity: 1;
+  max-width: 48px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 21px;
+  white-space: nowrap;
+  color: #5351fb;
+  font-family: Helvetica;
+  font-size: 14px;
+  font-weight: normal;
+}
+
+.tom {
+  opacity: 1;
+  margin-top: 15px;
+  max-width: 75px;
+  overflow: hidden;
+  text-align: center;
+  text-overflow: ellipsis;
+  line-height: 24px;
+  white-space: nowrap;
+  color: #141821;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.main {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  margin-top: 30px;
+  padding-right: 14px;
+  padding-left: 15px;
+}
+
+.headClass {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 113px;
+  height: 99px;
+}
+
+.userImage {
+  border-radius: 30px;
+  width: 60px;
+  height: 60px;
+  overflow: hidden;
+}
+
+.than {
+  opacity: 1;
+  margin-top: 15px;
+  max-width: 60px;
+  overflow: hidden;
+  text-align: center;
+  text-overflow: ellipsis;
+  line-height: 24px;
+  white-space: nowrap;
+  color: #141821;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.portraitClass {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 113px;
+  height: 99px;
+}
+
+.block {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+  border-radius: 30px;
+  background-color: #fec4b0;
+  width: 60px;
+  height: 60px;
+}
+
+.text {
+  opacity: 1;
+  max-width: 48px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 21px;
+  white-space: nowrap;
+  color: #f64000;
+  font-family: Helvetica;
+  font-size: 14px;
+  font-weight: normal;
+}
+
+.louis {
+  opacity: 1;
+  margin-top: 15px;
+  max-width: 67px;
+  overflow: hidden;
+  text-align: center;
+  text-overflow: ellipsis;
+  line-height: 24px;
+  white-space: nowrap;
+  color: #141821;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.userClass {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin-left: 1px;
+  width: 113px;
+  height: 99px;
+}
+
+.userImg {
+  border-radius: 30px;
+  width: 60px;
+  height: 60px;
+  overflow: hidden;
+}
+
+.romi {
+  opacity: 1;
+  margin-top: 15px;
+  max-width: 75px;
+  overflow: hidden;
+  text-align: center;
+  text-overflow: ellipsis;
+  line-height: 24px;
+  white-space: nowrap;
+  color: #141821;
+  font-size: 16px;
+  font-weight: 400;
+}
