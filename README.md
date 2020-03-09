@@ -18,7 +18,7 @@
 
 * [npm包](https://www.npmjs.com/package/hm-uniapp-friends-list)
 
-* [github地址](https://github.com/haomo-studio/hm-uniapp-row-video-card)
+* [github地址](https://github.com/haomo-studio/hm-uniapp-friends-list)
 
 * [gitee地址](https://gitee.com/haomo/hm-uniapp-friends-list)
 
@@ -83,8 +83,7 @@ export default {
         }
     };
   },
-  methods: {
-  }
+  methods: {}
 };
 </script>
 <style>
