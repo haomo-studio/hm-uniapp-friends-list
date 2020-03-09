@@ -14,7 +14,7 @@
 
 ## 技术支持
 
-* [uni-app插件市场](https://ext.dcloud.net.cn/plugin?id=1385)
+* [uni-app插件市场](https://ext.dcloud.net.cn/plugin?id=1390)
 
 * [npm包](https://www.npmjs.com/package/hm-friends-list)
 
